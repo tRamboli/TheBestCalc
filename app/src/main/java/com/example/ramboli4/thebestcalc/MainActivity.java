@@ -164,9 +164,5 @@ public class MainActivity extends AppCompatActivity {
         return 0;
     }
 
-    public int test(){
-        int i=2;
-        return i+5;
-    }
 
 }
